@@ -12,9 +12,9 @@
 
 import ftplib
 
-FTP_HOST = "ftp.aerismaengineering.com"
-FTP_USER = "sakuntha@aerismaengineering.com"
-FTP_PASS = "FtpAerisma@2021"
+FTP_HOST = "ftp.example.com"
+FTP_USER = "ftp@example.com"
+FTP_PASS = "Password@123"
 
 
 # The password can change from time to time, make sure you visit their website for the correct credentials, connecting to this server:
